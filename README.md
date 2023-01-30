@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/BrunoNeemias">
-    <img src="https://github.com/brunoneemias/BrunoNeemias/blob/main/Imagens/Bruno_Neemias%201.png" style="float: left;" alt="Bruno Neemias" /></a>
+    <img src="https://github.com/brunoneemias/BrunoNeemias/blob/main/Imagens/Bruno_Neemias%201.png" alt="Bruno Neemias" /></a>
 </p>
 
 <p align="center">
