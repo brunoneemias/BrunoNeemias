@@ -1,9 +1,9 @@
 ### Hi there 👋
 <p align="center">
   <a href="https://github.com/BrunoNeemias">
-    <img src="https://github.com/brunoneemias/BrunoNeemias/blob/main/Imagens/Bruno_Neemias1.png" alt="" /></a>
+    <img src="https://github.com/brunoneemias/BrunoNeemias/blob/main/Imagens/Bruno_Neemias%201.png" alt="" /></a>
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD4864&width=435&lines=Estou+estudando+para+ser+programador;Focado+em+Web3+e+Blockchain)](https://git.io/typing-svg)
 
 
 <!--
