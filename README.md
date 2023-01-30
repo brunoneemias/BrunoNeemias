@@ -1,5 +1,10 @@
 ### Hi there 👋
+<p align="center">
+  <a href="https://github.com/BrunoNeemias">
+    <img src="https://github.com/brunoneemias/BrunoNeemias/blob/main/Imagens/Bruno_Neemias1.png" alt="" /></a>
+</p>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 <!--
 **brunoneemias/BrunoNeemias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
