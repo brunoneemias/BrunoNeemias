@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BD4864&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o;Focado+em+blockchain+e+WEB3+;Always+leaning+new+things!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BD4864&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o;Focado+em+blockchain+e+WEB3+;Always+leaning+new+things!" alt="Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC4864&width=435&lines=Hello%2C+Welcome!;I'm+Bruno+;I'm+24+years+old;Studying+to+be+a+programmer)](https://git.io/typing-svg" /></a>
 
 <!--
 **brunoneemias/BrunoNeemias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
