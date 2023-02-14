@@ -30,8 +30,9 @@
 
 <h3>🖖 GitHub Status</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=brunoneemias&show_icons=true&theme=tokyonight" width="400">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoneemias&layout=compact&theme=tokyonight" width="335">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoneemias&layout=compact&theme=tokyonight" width="400">
 </div>
 
+![Snake animation](https://github.com/brunoneemias/BrunoNeemias/blob/output/github-contribution-grid-snake.svg)
 
 
