@@ -1,22 +1,39 @@
-<p align="center">
-  <a href="https://github.com/BrunoNeemias">
-    <img src="https://github.com/brunoneemias/BrunoNeemias/blob/main/Imagens/Bruno_Neemias%201.png" alt="Bruno Neemias" /></a>
-</p>
+<div>
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+    <div>
+    <h1>Olá, amigo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+        <p align="left" style="font-size: 17px"> 
+          Meu nome é Bruno Neemias e eu sou um futuro  <strong>Desenvolvedor</strong>.<br>
+          Estou no inicio dos meus estudos e atualmente estou estudando C#.
+        </p>
+    </div>
+</div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC4864&width=435&lines=%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9FHello%2C+Welcome!;%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9FI'm+Bruno+;%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F+I'm+24+years+old;%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9F%E2%81%9FStudying+to+be+a+programmer!!!" alt="Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC4864&width=435&lines=Hello%2C+Welcome!;I'm+Bruno+;I'm+24+years+old;Studying+to+be+a+programmer)](https://git.io/typing-svg" /></a>
+<div>
+  <h3>🦄 Linguagens</h3>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+<div>
+    <h3>☎ Contato</h3>
+    <a href="https://www.linkedin.com/in/bruno-neemias-6800b5141/" alt="Linkedin">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/brunoneemias" alt="Github">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  
+   
+</div>
 
-<!--
-**brunoneemias/BrunoNeemias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🖖 GitHub Status</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=brunoneemias&show_icons=true&theme=tokyonight" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoneemias&layout=compact&theme=tokyonight" width="335">
+</div>
 
-Here are some ideas to get you started:
+![Snake animation](https://github.com/bielgomes/bielgomes/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/brunoneemias/brunoneemias)
+
