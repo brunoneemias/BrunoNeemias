@@ -33,7 +33,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoneemias&layout=compact&theme=tokyonight" width="335">
 </div>
 
-![Snake animation](https://github.com/bielgomes/bielgomes/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/brunoneemias/brunoneemias)
 
