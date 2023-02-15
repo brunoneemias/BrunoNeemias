@@ -4,7 +4,7 @@
     <h1>Olá, amigo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
         <p align="left" style="font-size: 17px"> 
           Meu nome é Bruno Neemias e eu sou um futuro  <strong>Desenvolvedor</strong>.<br>
-          Estou no inicio dos meus estudos e atualmente estou estudando C#.
+          atualmente estou estudando blockchain.
         </p>
     </div>
 </div>
