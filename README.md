@@ -17,7 +17,7 @@
 </div>
 <div>
     <h3>☎ Contato</h3>
-    <a href="https://www.linkedin.com/in/bruno-neemias-6800b5141/" alt="Linkedin">
+    <a href="https://www.linkedin.com/in/bruno-neemias-92b323302" alt="Linkedin">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/brunoneemias" alt="Github">
