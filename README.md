@@ -1,15 +1,17 @@
+<div >
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" "   align="right" alt="Computador iuriCode">  
 <div>
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-    <div>
-    <h1>Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+    <h3>Olá, eu sou Bruno! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
         <p align="left" style="font-size: 17px"> 
-            <strong>Sou um estudante de cibersegurança com paixão por IA, DevOps e blockchain. 
+            <h3>Sobre Mim</h3>
+            <strong>Sou um estudante de Cibersegurança com grande paixão por Inteligência Artificial, DevOps e Blockchain. Estou sempre em busca de novos desafios que me permitam aplicar e expandir meus conhecimentos nessas áreas.
 </strong><br>
         </p>
     </div>
 </div>
 
 <div>
+  <h3>Tecnologias e Habilidades</>
   <h3>🦄 Linguagens</h3>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
