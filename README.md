@@ -40,5 +40,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoneemias&layout=compact&theme=tokyonight" width="400">
 </div>
 
+<!-- Snake Animation -->
+![Snake animation](https://github.com/bielgomes/bielgomes/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
