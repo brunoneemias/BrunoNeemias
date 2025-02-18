@@ -4,7 +4,7 @@
     <h3>Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h3>
         <p align="left" style="font-size: 17px"> 
             <h3>Sobre Mim</h3>
-            <strong>Sou um estudante de Cibersegurança com grande paixão por Inteligência Artificial, DevOps e Blockchain. Estou sempre em busca de novos desafios que me permitam aplicar e expandir meus conhecimentos nessas áreas.
+            <strong>Sou um estudante de Cibersegurança. Estou sempre em busca de novos desafios que me permitam aplicar e expandir meus conhecimentos.
 </strong><br>
         </p>
     </div>
