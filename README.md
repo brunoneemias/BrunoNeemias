@@ -10,7 +10,7 @@
     <li>Simulações em ambientes como Cisco Packet Tracer</li>
     <li>Aprendizado contínuo em Python, Linux e ferramentas de segurança</li>
   </ul>
-  <p>Atualmente estou me aprofundando nos cursos da <strong>Cisco Networking Academy</strong>, e <strong>CompTIA/strong>  buscando certificações como:</p>
+  <p>Atualmente estou me aprofundando nos cursos da <strong>Cisco Networking Academy</strong>, e <strong>CompTIA</strong>  buscando certificações como:</p>
   <ul>
     <li>Cisco Certified Support Technician (CCST) Cybersecurity</li>
     <li>CompTIA Security+ </li>
