@@ -29,9 +29,9 @@
       <td>Packet Tracer</td>
     </tr>
     <tr>
-      <td>cybersecurity-lab-firewall</td>
-      <td>Simulação de regras de firewall e análise de tráfego</td>
-      <td>Wireshark, Linux</td>
+      <td>CCST Cybersecurity – Junior Cybersecurity Analyst</td>
+      <td>exercícios, laboratórios e materiais complementares da trilha CCST</td>
+      <td>Packet Tracer, Wireshark, Linux, Firewalls e IDS/IPS</td>
     </tr>
     <tr>
       <td>python-security-tools</td>
