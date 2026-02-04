@@ -1,4 +1,4 @@
-<h1>👋 Olá, eu sou Bruno Neemias!</h1>
+# 👋 Olá, eu sou Bruno Neemias!
 
 <p>
 🎓 Estudante de <strong>Cibersegurança</strong>, com foco em fundamentos de redes, monitoramento e defesa de ambientes.<br>
@@ -8,15 +8,14 @@
 <h2>🚀 Sobre Mim</h2>
 
 <p>
-Sou entusiasta da área de Segurança da Informação, com interesse especial em operações, monitoramento e proteção de redes.
-Atualmente, concentro meus estudos e práticas em:
+Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteção de ambientes corporativos.
 </p>
 
 <ul>
   <li>Proteção e monitoramento de redes</li>
   <li>Análise inicial de vulnerabilidades</li>
   <li>Simulações em ambientes de rede (Cisco Packet Tracer)</li>
-  <li>Fundamentos de segurança ofensiva e defensiva (visão Blue Team)</li>
+  <li>fundamentos de segurança ofensiva (red team básico) e defensiva com foco em Blue Team</li>
   <li>Aprendizado contínuo em Python, Linux e ferramentas de segurança</li>
 </ul>
 
