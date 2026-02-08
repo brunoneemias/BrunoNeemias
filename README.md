@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Bruno Neemias!
 
 <p>
-🎓 Estudante de <strong>Cibersegurança</strong>, com foco em fundamentos de redes, monitoramento e defesa de ambientes.<br>
-📍 São Paulo, SP — em constante evolução para atuar como <strong>Analista Júnior em SOC, NOC ou Blue Team</strong>.
+🎓 Estudante de Cibersegurança com experiência prática em diagnóstico e resolução de problemas em sistemas críticos.
+🚀 Em transição de carreira para atuar como Analista de Segurança (SOC / Blue Team), aplicando uma mentalidade investigativa para proteger ambientes corporativos.
 </p>
 
 <h2>🚀 Sobre Mim</h2>
@@ -37,21 +37,22 @@ Atualmente estou me aprofundando nos cursos da <strong>Cisco Networking Academy<
     <th>Ferramentas</th>
   </tr>
   <tr>
-    <td>cisco-networking-basics</td>
+    <td><a href="https://github.com/brunoneemias/cisco-networking-basics" target="_blank">cisco-networking-basics</a></td>
     <td>Laboratórios de fundamentos de redes, IP, roteamento e conectividade</td>
     <td>Packet Tracer</td>
   </tr>
   <tr>
-    <td>CCST Cybersecurity – Junior Analyst</td>
+    <td><a href="https://github.com/brunoneemias/CCST-Cybersecurity-Junior-Analyst" target="_blank">CCST-Cybersecurity-Junior-Analyst</a></td>
     <td>Laboratórios, anotações e simulações voltadas para SOC, NOC e Blue Team</td>
     <td>Packet Tracer, Wireshark, Linux, Firewalls, IDS/IPS</td>
   </tr>
   <tr>
-    <td>python-security-tools</td>
-    <td>Scripts em Python para automação e apoio a tarefas de segurança</td>
-    <td>Python, Bash</td>
+    <td><a href="https://github.com/brunoneemias/hackers-do-bem" target="_blank">hackers-do-bem</a></td>
+    <td>Laboratórios, anotações e simulações voltadas para SOC, NOC e Blue Team</td>
+    <td>Python, Bash, Kali Linux, Windows Server</td>
   </tr>
 </table>
+
 
 <p>
 🔗 Veja todos os meus repositórios 
@@ -59,12 +60,16 @@ Atualmente estou me aprofundando nos cursos da <strong>Cisco Networking Academy<
 </p>
 
 <h2>🧠 Tecnologias e Habilidades</h2>
+Segurança e Redes  
 
-<ul>
-  <li>🐍 Python • 🖥️ Linux • 🌐 Redes TCP/IP</li>
-  <li>🔐 Segurança da Informação • 🧱 Firewalls • 📡 Packet Tracer</li>
-  <li>💻 HTML, CSS, JavaScript (básico) • ☕ Java (básico) • 🧠 C (básico)</li>
-</ul>
+<img src="https://img.shields.io/badge/Segurança_da_Informação-blue?style=for-the-badge&logo=gnome-terminal">
+<img src="https://img.shields.io/badge/Redes_TCP/IP-orange?style=for-the-badge&logo=cisco">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark">
+Sistemas e Linguagens  
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
 
 <h2>📜 Certificados</h2>
 
