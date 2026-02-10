@@ -20,13 +20,8 @@ Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteç
 </ul>
 
 <p>
-Atualmente estou me aprofundando nos cursos da <strong>Cisco Networking Academy</strong> e <strong>CompTIA</strong>, com foco nas certificações:
+Atualmente estou me aprofundando na cerificação da <strong>CompTIA Security+</strong>
 </p>
-
-<ul>
-  <li>Cisco Certified Support Technician (CCST) – Cybersecurity</li>
-  <li>CompTIA Security+</li>
-</ul>
 
 <h2>🧪 Projetos e Laboratórios</h2>
 
