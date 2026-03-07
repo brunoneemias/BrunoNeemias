@@ -1,20 +1,13 @@
 # 👋 Olá, eu sou Bruno Neemias!
 <p>
-🎓 Estudante de Cibersegurança com experiência prática em diagnóstico e resolução de problemas em sistemas críticos.
-🚀 Em transição de carreira para atuar como Analista de Segurança (SOC / Blue Team), aplicando uma mentalidade investigativa para proteger ambientes corporativos.
+🎓 Estudante de Segurança da informação.
 </p>
 
 <h2>🚀 Sobre Mim</h2>
 <p>
-Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteção de ambientes corporativos. Tenho construído minha base técnica por meio de laboratórios práticos, cobrindo desde fundamentos de redes e criptografia até ferramentas de segurança ofensiva e defensiva. Atualmente me aprofundando na certificação <strong>CompTIA Security+</strong>.
+Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteção de ambientes corporativos. Tenho construído minha base técnica por meio de laboratórios práticos, cobrindo desde fundamentos de redes e criptografia até ferramentas de segurança ofensiva e defensiva. 
 </p>
-<ul>
-  <li>Proteção e monitoramento de redes</li>
-  <li>Análise inicial de vulnerabilidades</li>
-  <li>Simulações em ambientes de rede (Cisco Packet Tracer)</li>
-  <li>Fundamentos de segurança ofensiva (Red Team básico) e defensiva com foco em Blue Team</li>
-  <li>Aprendizado contínuo em Python, Linux e ferramentas de segurança</li>
-</ul>
+
 
 <h2>🧪 Projetos e Laboratórios</h2>
 <table>
