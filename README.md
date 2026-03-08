@@ -1,13 +1,21 @@
-# 👋 Olá, eu sou Bruno Neemias!
-<p>
-🎓 Estudante de Segurança da informação.
-</p>
+<div align="center">
+
+<h1>👋 Olá, eu sou Bruno Neemias!</h1>
+
+<p>🎓 Estudante de <strong>Segurança da Informação</strong> · 🛡️ Blue Team · 🔍 SOC Analyst em formação</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunoneemias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoneemias/)
+[![GitHub](https://img.shields.io/badge/GitHub-brunoneemias-181717?style=for-the-badge&logo=github)](https://github.com/brunoneemias)
+[![Email](https://img.shields.io/badge/Email-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoneemiasalves@gmail.com)
+
+</div>
+
+---
 
 <h2>🚀 Sobre Mim</h2>
 <p>
-Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteção de ambientes corporativos. Tenho construído minha base técnica por meio de laboratórios práticos, cobrindo desde fundamentos de redes e criptografia até ferramentas de segurança ofensiva e defensiva. 
+Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteção de ambientes corporativos. Tenho construído minha base técnica por meio de laboratórios práticos, cobrindo desde fundamentos de redes e criptografia até ferramentas de segurança ofensiva e defensiva.
 </p>
-
 
 <h2>🧪 Projetos e Laboratórios</h2>
 <table>
@@ -17,19 +25,24 @@ Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteç
     <th>Ferramentas</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/brunoneemias/cisco-networking-basics" target="_blank">cisco-networking-basics</a></td>
-    <td>Laboratórios de fundamentos de redes, IP, roteamento e conectividade</td>
-    <td>Packet Tracer</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/brunoneemias/CCST-Cybersecurity-Junior-Analyst" target="_blank">CCST-Cybersecurity-Junior-Analyst</a></td>
-    <td>Laboratórios, anotações e simulações voltadas para SOC, NOC e Blue Team</td>
-    <td>Packet Tracer, Wireshark, Linux, Firewalls, IDS/IPS</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/brunoneemias/hackers-do-bem" target="_blank">hackers-do-bem</a></td>
     <td>Laboratórios práticos do curso RNP/ESR cobrindo segurança ofensiva e defensiva, criptografia, análise de tráfego e resposta a incidentes</td>
     <td>Python, Bash, Kali Linux, Nmap, Burp Suite, Netcat, Windows Server</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/brunoneemias/smart-home-automation" target="_blank">hom&lt;on&gt; smart-home-automation</a></td>
+    <td>Sistema Smart Home com app mobile Android, Arduino e sensores — controle de iluminação via Bluetooth desenvolvido na ETEC</td>
+    <td>Delphi, FireMonkey, Arduino, C++, Bluetooth HC-05, LDR</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/brunoneemias/security-projects" target="_blank">security-projects</a></td>
+    <td>Laboratórios e projetos práticos de segurança ofensiva e defensiva</td>
+    <td>Python, Bash, Kali Linux, Nmap, Wireshark</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/brunoneemias/sistema-biblioteca-php" target="_blank">sistema-biblioteca-php</a></td>
+    <td>Sistema web de cadastro e empréstimo de livros em PHP</td>
+    <td>PHP, MySQL, HTML, CSS</td>
   </tr>
 </table>
 <p>
@@ -55,6 +68,8 @@ Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteç
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 </p>
 
 <h4>📋 Conceitos e Metodologias</h4>
@@ -89,13 +104,21 @@ Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteç
   </li>
 </ul>
 
-<h2>📫 Contato</h2>
-<ul>
-  <li>📧 Email: brunoneemiasalves@gmail.com</li>
-  <li>💼 <a href="https://www.linkedin.com/in/brunoneemias/" target="_blank">LinkedIn</a></li>
-  <li>🌐 <a href="https://github.com/brunoneemias" target="_blank">GitHub</a></li>
-</ul>
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunoneemias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoneemias&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+<div align="center">
 
 <blockquote>
 "A segurança começa com o conhecimento. E o conhecimento começa com a curiosidade." — Bruno Neemias
 </blockquote>
+
+📧 brunoneemiasalves@gmail.com · 💼 <a href="https://www.linkedin.com/in/brunoneemias/">LinkedIn</a> · 🌐 <a href="https://github.com/brunoneemias">GitHub</a>
+
+</div>
