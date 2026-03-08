@@ -31,7 +31,7 @@ Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteç
   </tr>
   <tr>
     <td><a href="https://github.com/brunoneemias/smart-home-automation" target="_blank">hom&lt;on&gt; smart-home-automation</a></td>
-    <td>Sistema Smart Home com app mobile Android, Arduino e sensores — controle de iluminação via Bluetooth desenvolvido na ETEC</td>
+    <td>Sistema Smart Home com app mobile Android, Arduino e sensores — controle de iluminação via Bluetooth</td>
     <td>Delphi, FireMonkey, Arduino, C++, Bluetooth HC-05, LDR</td>
   </tr>
   <tr>
