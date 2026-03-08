@@ -107,8 +107,7 @@ Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteç
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunoneemias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoneemias&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=brunoneemias&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="GitHub Streak"/>
 </div>
 
 ---
