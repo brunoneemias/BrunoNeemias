@@ -4,10 +4,6 @@
 
 <p>🎓 Estudante de <strong>Segurança da Informação</strong> · 🛡️ Blue Team · 🔍 SOC Analyst em formação</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunoneemias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoneemias/)
-[![GitHub](https://img.shields.io/badge/GitHub-brunoneemias-181717?style=for-the-badge&logo=github)](https://github.com/brunoneemias)
-[![Email](https://img.shields.io/badge/Email-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoneemiasalves@gmail.com)
-
 </div>
 
 ---
