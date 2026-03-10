@@ -21,7 +21,7 @@ Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteç
     <th>Ferramentas</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/brunoneemias/cybersecurity-labs" target="_blank">hackers-do-bem</a></td>
+    <td><a href="https://github.com/brunoneemias/cybersecurity-labs" target="_blank">cybersecurity-labs</a></td>
     <td>Laboratórios práticos cobrindo segurança ofensiva e defensiva, criptografia, análise de tráfego e resposta a incidentes</td>
     <td>Python, Bash, Kali Linux, Nmap, Burp Suite, Netcat, Windows Server</td>
   </tr>
