@@ -21,14 +21,14 @@ Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteç
     <th>Ferramentas</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/brunoneemias/cybersecurity-labs" target="_blank">cybersecurity-labs</a></td>
-    <td>Laboratórios práticos cobrindo segurança ofensiva e defensiva, criptografia, análise de tráfego e resposta a incidentes</td>
-    <td>Python, Bash, Kali Linux, Nmap, Burp Suite, Netcat, Windows Server</td>
+    <td><a href="https://github.com/brunoneemias/smart-home-automation" target="_blank">hom&lt;on&gt; – Smart Home Automation System</a></td>
+    <td>Sistema de automação residencial com aplicação mobile Android desenvolvida em Delphi FireMonkey, comunicação Bluetooth com Arduino e controle inteligente de iluminação baseado em sensores LDR</td>
+    <td>Delphi, FireMonkey, Arduino, C++, Bluetooth HC-05, IoT, Sistemas Embarcados</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/brunoneemias/smart-home-automation" target="_blank">hom&lt;on&gt; smart-home-automation</a></td>
-    <td>Sistema Smart Home com app mobile Android, Arduino e sensores — controle de iluminação via Bluetooth</td>
-    <td>Delphi, FireMonkey, Arduino, C++, Bluetooth HC-05, LDR</td>
+    <td><a href="https://github.com/brunoneemias/cybersecurity-labs" target="_blank">cybersecurity-labs</a></td>
+    <td>Laboratórios práticos cobrindo segurança ofensiva e defensiva, criptografia, análise de tráfego e resposta a incidentes</td>
+    <td>Python, Bash, Kali Linux, Nmap, Burp Suite, Netcat, Wireshark, Windows Server</td>
   </tr>
   <tr>
     <td><a href="https://github.com/brunoneemias/security-projects" target="_blank">security-projects</a></td>
@@ -37,8 +37,8 @@ Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteç
   </tr>
   <tr>
     <td><a href="https://github.com/brunoneemias/sistema-biblioteca-php" target="_blank">sistema-biblioteca-php</a></td>
-    <td>Sistema web de cadastro e empréstimo de livros em PHP</td>
-    <td>PHP, MySQL, HTML, CSS</td>
+    <td>Sistema web de cadastro e empréstimo de livros em PHP com persistência em banco de dados</td>
+    <td>PHP, MySQL, HTML5, CSS3, Web Development</td>
   </tr>
 </table>
 <p>
@@ -65,15 +65,12 @@ Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteç
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=embarcadero&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-</p>
-
-<h4>📋 Conceitos e Metodologias</h4>
-<p>
-  <img src="https://img.shields.io/badge/Blue_Team-1e3a5f?style=for-the-badge&logo=shield&logoColor=white">
-  <img src="https://img.shields.io/badge/SOC_Analyst-2e86ab?style=for-the-badge&logo=datadog&logoColor=white">
-  <img src="https://img.shields.io/badge/Pentest_Básico-8B0000?style=for-the-badge&logo=hackaday&logoColor=white">
-  <img src="https://img.shields.io/badge/Resposta_a_Incidentes-6a0dad?style=for-the-badge&logo=pagerduty&logoColor=white">
 </p>
 
 <h2>📜 Certificados</h2>
