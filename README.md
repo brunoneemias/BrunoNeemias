@@ -31,7 +31,7 @@ Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteç
     <td>Python, Bash, Kali Linux, Nmap, Burp Suite, Netcat, Wireshark, Windows Server</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/brunoneemias/security-projects" target="_blank">security-projects</a></td>
+    <td><a href="https://github.com/brunoneemias/security-projects-" target="_blank">security-projects</a></td>
     <td>Laboratórios e projetos práticos de segurança ofensiva e defensiva</td>
     <td>Python, Bash, Kali Linux, Nmap, Wireshark</td>
   </tr>
