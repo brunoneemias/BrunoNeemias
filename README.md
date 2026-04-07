@@ -111,6 +111,6 @@ Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteç
 "A segurança começa com o conhecimento. E o conhecimento começa com a curiosidade." — Bruno Neemias
 </blockquote>
 
-📧 brunoneemiasalves@gmail.com · 💼 <a href="https://www.linkedin.com/in/brunoneemias/">LinkedIn</a> · 🌐 <a href="https://github.com/brunoneemias">GitHub</a>
+📧 brunoneemiasalves@gmail.com · 💼 <a href="https://www.linkedin.com/in/brunoneemias/">LinkedIn</a> · 🌐 <a href="https://brunoneemias.github.io/">GitHub</a>
 
 </div>
