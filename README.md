@@ -2,7 +2,7 @@
 
 <h1>👋 Olá, eu sou Bruno Neemias!</h1>
 
-<p>🎓 Estudante de <strong>Segurança da Informação</strong> &nbsp;·&nbsp; 🛡️ Blue Team &nbsp;·&nbsp; 🔍 SOC Analyst em formação</p>
+<p>🎓 Estudante de <strong>Defesa Cibernética</strong> (Fatec Jundiaí) &nbsp;·&nbsp; 🛡️ Blue Team &nbsp;·&nbsp; 🔍 SOC Analyst em formação</p>
 
 <p>
   <a href="https://www.linkedin.com/in/brunoneemias/" target="_blank">
@@ -21,6 +21,8 @@
 ---
 
 ## 🚀 Sobre Mim
+
+Atuo como **Auxiliar de Infraestrutura na NTT DATA**, com redes nas camadas 2 e 3, monitoramento e tratamento de incidentes, somando mais de 7 anos de experiência em operações técnicas críticas.
 
 Meu objetivo é atuar na detecção de ameaças, resposta a incidentes e proteção de ambientes corporativos. Tenho construído minha base técnica por meio de laboratórios práticos, cobrindo desde fundamentos de redes e criptografia até ferramentas de segurança ofensiva e defensiva.
 
@@ -90,6 +92,15 @@ Atualmente focado em **SIEM**, **SOC**, **NDR**, **XDR** e **IA aplicada à segu
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
 </p>
 
+#### 🛠️ Infraestrutura e Operações
+
+<p>
+  <img src="https://img.shields.io/badge/Redes_L2%2FL3-VLAN-orange?style=for-the-badge&logo=cisco">
+  <img src="https://img.shields.io/badge/pfSense-212361?style=for-the-badge&logo=pfsense&logoColor=white">
+  <img src="https://img.shields.io/badge/SolarWinds-F99D1C?style=for-the-badge&logo=solarwinds&logoColor=white">
+  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white">
+</p>
+
 #### 🖥️ Sistemas e Linguagens
 
 <p>
@@ -108,14 +119,20 @@ Atualmente focado em **SIEM**, **SOC**, **NDR**, **XDR** e **IA aplicada à segu
 
 ---
 
-## 📜 Certificados
+## 📜 Certificados e Cursos
 
 | Certificado | Emissor |
 |---|---|
-| [Introdução às Redes (CCNA)](https://1drv.ms/b/c/3dca12016f762561/ETYNMifVa4hPjjXdad2-i28B_YVcACSEY0BJ02ZIbHL4GA?e=0MoE44) | Cisco Networking Academy |
+| [Introdução às Redes (curso CCNA)](https://1drv.ms/b/c/3dca12016f762561/ETYNMifVa4hPjjXdad2-i28B_YVcACSEY0BJ02ZIbHL4GA?e=0MoE44) | Cisco Networking Academy |
 | [Gerenciamento de Ameaças Cibernéticas](https://1drv.ms/b/c/3dca12016f762561/ETnrFDMXxQFNnvEZyjI_5dwBb4s7WKFIm5m3VfjSoAZwCQ?e=1FrBMB) | Cisco Networking Academy |
 | [Cyber Defense Essentials](https://1drv.ms/b/c/3dca12016f762561/EcE70i_PZplJnsmX4ONiQe8Bjwi3f5kNscciJNkbGq5-Eg?e=fQyWjR) | Centro Paula Souza |
 | [Desenvolvedor de Sistemas para Defesa Cibernética](https://1drv.ms/b/c/3dca12016f762561/ERyDA7OAmARInpML7lIXt3oB8LTvDSunZ9uTopMKN-XLnA?e=KrrrWZ) | Centro Paula Souza |
+
+---
+
+## 📖 Publicação
+
+TCC publicado como artigo: **"IA na validação de software: desafios éticos e de segurança cibernética"**, no livro *Ciência, Tecnologia e Cultura na Praça* (Vol. 4).
 
 ---
 
